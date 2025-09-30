@@ -1,4 +1,4 @@
-<img src="https://cdn.keyauth.cc/v2/assets/media/logos/logo-1-dark.png" alt="" width="180" height="100">
+<img src="https://ibb.co/bgnVcSLX" alt="" width="180" height="100">
 
 KeyAuth is an open-source authentication system with client SDKs for [C#](https://github.com/Authsecure-shop/Authsecure-CSHARP-Example).
 
