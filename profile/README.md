@@ -13,6 +13,7 @@
 |------------|--------------|
 | C#         | [AuthSecure-CSHARP-Example](https://github.com/Authsecure-shop/Authsecure-CSHARP-Example) |
 | C++        | [AuthSecure-CPP-Example](https://github.com/Authsecure-shop/AuthSecure-CPP-Example) |
+| Java       | [AuthSecure-JAVA-Example](https://github.com/Authsecure-shop/AuthSecure-JAVA-Example) |
 
 
 ---
