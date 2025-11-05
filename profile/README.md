@@ -15,7 +15,7 @@
 | C++        | [AuthSecure-CPP-Example](https://github.com/Authsecure-shop/AuthSecure-CPP-Example) |
 | Java       | [AuthSecure-JAVA-Example](https://github.com/Authsecure-shop/AuthSecure-JAVA-Example) |
 | PHP       | [AuthSecure-PHP-Example](https://github.com/Authsecure-shop/AuthSecure-PHP-Example) |
-| VB.NET       | [AuthSecure-PHP-Example](https://github.com/Authsecure-shop/AuthSecure-VB.NET-Example) |
+| VB.NET       | [AuthSecure-VB-Example](https://github.com/Authsecure-shop/AuthSecure-VB-Example) |
 
 
 ---
