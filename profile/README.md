@@ -16,6 +16,7 @@
 | Java       | [AuthSecure-JAVA-Example](https://github.com/Authsecure-shop/AuthSecure-JAVA-Example) |
 | PHP       | [AuthSecure-PHP-Example](https://github.com/Authsecure-shop/AuthSecure-PHP-Example) |
 | VB.NET       | [AuthSecure-VB-Example](https://github.com/Authsecure-shop/AuthSecure-VB-Example) |
+| Python       | [AuthSecure-Python-Example](https://github.com/Authsecure-shop/AuthSecure-python-Example) |
 
 
 ---
