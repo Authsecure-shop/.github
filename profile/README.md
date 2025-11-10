@@ -10,14 +10,15 @@
 
 
 
+
 ### 🔑 Client SDKs
 | Language   | Example Repo |
 |------------|--------------|
 | C#         | [AuthSecure-CSHARP-Example](https://github.com/Authsecure-shop/AuthSecure-CSHARP-Example) |
 | C++        | [AuthSecure-CPP-Example](https://github.com/Authsecure-shop/AuthSecure-CPP-Example) |
 | Python     | [AuthSecure-Python-Example](https://github.com/Authsecure-shop/AuthSecure-Python-Example) |
-| Java       | [AuthSecure-JAVA-API](https://github.com/Authsecure-shop/AuthSecure-JAVA-api) |
-| JavaScript | [AuthSecure-JS-Example](https://github.com/Authsecure-shop/AuthSecure-JS-Example) |
+| Java       | [AuthSecure-JAVA-API](https://github.com/Authsecure-shop/AuthSecure-JAVA-Example) |
+| JavaScript | [AuthSecure-JS-Example](https://github.com/Authsecure-shop/AuthSecure-javascript-Example) |
 | VB.NET     | [AuthSecure-VB-Example](https://github.com/Authsecure-shop/AuthSecure-VB-Example) |
 | PHP        | [AuthSecure-PHP-Example](https://github.com/Authsecure-shop/AuthSecure-PHP-Example) |
 | Rust       | [AuthSecure-Rust-Example](https://github.com/Authsecure-shop/AuthSecure-Rust-Example) |
@@ -27,6 +28,7 @@
 | Perl       | [AuthSecure-Perl-Example](https://github.com/Authsecure-shop/AuthSecure-Perl-Example) |
 
 ---
+
 
 
 
