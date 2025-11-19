@@ -52,7 +52,7 @@
 
 ---
 
-## 🌐 **Quick Links (Custom Buttons)**
+## 🌐 **Quick Links**
 
 <p align="center">
   <a href="https://authsecure.shop/">
