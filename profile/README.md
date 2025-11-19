@@ -16,7 +16,7 @@
 
 ---
 
-## ⚡ **What is AuthSecure? (Animated Intro)**
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=38F7FF&center=true&vCenter=true&width=800&lines=Next-Gen+Authentication+System;Multi-Language+SDKs;Ultra-Secure+Token+Flow;Designed+for+Developers;Fast%2C+Modern%2C+Powerful+🚀">
@@ -24,7 +24,7 @@
 
 ---
 
-## 🔥 Animated Tech Stack Badges
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,go,rust,lua,php,ruby&theme=dark" />
