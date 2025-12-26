@@ -7,9 +7,7 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38F7FF&center=true&vCenter=true&width=800&lines=Next-Gen+Authentication+System;Multi-Language+SDKs;Ultra-Secure+Token+Flow;Designed+for+Developers;Fast%2C+Modern%2C+Powerful+🚀">
-</p>
+
 
 ---
 
