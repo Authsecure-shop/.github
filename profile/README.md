@@ -4,18 +4,18 @@
   <img src="https://raw.githubusercontent.com/ideveloper-xd/authsecure-cdn/refs/heads/main/v2/assets/media/logos/logo-1-dark-preview.png" width="220">
 </p>
 
+
+
+
+
+---
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,go,rust,lua,php,ruby&theme=dark" />
 </p>
 
 
-
----
-
-
-
-
-
 ---
 
 
@@ -23,7 +23,7 @@
 
 
 
----
+
 
 ## 🔑 **Client SDKs (Clean Table)**
 
