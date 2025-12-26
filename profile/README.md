@@ -26,9 +26,7 @@
 
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,go,rust,lua,php,ruby&theme=dark" />
-</p>
+
 
 ---
 
