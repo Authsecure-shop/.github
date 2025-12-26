@@ -25,7 +25,7 @@
 
 
 
-## 🔑 **Client SDKs (Clean Table)**
+## 🔑 **Client SDKs**
 
 | Language     | Repository |
 |--------------|------------|
