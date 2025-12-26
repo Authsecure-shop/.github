@@ -5,7 +5,7 @@
 </p>
 
 
-
+AuthSecure — Modern, secure, and easy-to-use authentication for applications, websites, games and more!
 
 
 ---
