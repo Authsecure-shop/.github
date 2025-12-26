@@ -4,15 +4,8 @@
   <img src="https://raw.githubusercontent.com/ideveloper-xd/authsecure-cdn/refs/heads/main/v2/assets/media/logos/logo-1-dark-preview.png" width="220">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=0AFFEA&center=true&vCenter=true&lines=AUTHSECURE;Modern+Authentication;Secure+%7C+Fast+%7C+Reliable;Welcome+Developers!+🚀" />
-</h1>
-
-
-
-<!-- Neon Line -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,go,rust,lua,php,ruby&theme=dark" />
 </p>
 
 
