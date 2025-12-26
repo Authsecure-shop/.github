@@ -29,7 +29,7 @@
 
 ## 🔑 **Client SDKs**
 
-| Language     | Repository |
+| Language     | Example Repository |
 |--------------|------------|
 | **C#**       | https://github.com/Authsecure-shop/AuthSecure-CSHARP-Example |
 | **C++**      | https://github.com/Authsecure-shop/AuthSecure-CPP-Example |
