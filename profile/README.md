@@ -1,16 +1,7 @@
-<!-- Glowing Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ideveloper-xd/authsecure-cdn/refs/heads/main/v2/assets/media/logos/logo-1-dark-preview.png" width="220">
-</p>
 
 
 
 
-
-<!-- Neon Line -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
 
 ---
 
@@ -23,9 +14,8 @@
 ---
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,go,rust,lua,php,ruby&theme=dark" />
-</p>
+
+
 
 
 ---
